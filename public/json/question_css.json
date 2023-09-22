@@ -1,0 +1,44 @@
+{
+    "questionList": [
+        {
+            "no": 1,
+            "question": "テキストの色をcssで変更したい場合のプロパティは次のうちどれか。",
+            "choice": [
+                "color", "font-color", "background-color", "border-color"
+            ],
+            "answer": "color"
+        },
+        {
+            "no": 2,
+            "question": "CSSの新技術が国際基準として最終的にFIXするのは、次のどの段階か。",
+            "choice": [
+                "作業草案（WD）", "勧告候補（CR）", "勧告案（PR）", "勧告（REC）"
+            ],
+            "answer": "勧告（REC）"
+        },
+        {
+            "no": 3,
+            "question": "CSSで「アニメーションの時間設定」を実装したい時に使う属性は、次のうちどれか。",
+            "choice": [
+                "flexbox", "transform", "animation", "font-face"
+            ],
+            "answer": "animation"
+        },
+        {
+            "no": 4,
+            "question": "以下のcss指定で、「IE11」でも適用されるのはどれか。<br>A.要素の透明度を指定する「opacity」<br>B.文字に影を付ける「text-shadow」<br>C.指定した要素に影を付ける「box-shadow」<br>D.背景をグラデーションにする「background:linear-gradient」",
+            "choice": [
+                "A", "AとB", "AとBとC", "全て"
+            ],
+            "answer": "全て"
+        },
+        {
+            "no": 5,
+            "question": "@media only screen and (max-width: 768px) {<br>&emsp;body {width: 100%;}<br>}<br>─────────────────────────<br>「body幅100%」が適用されるサイズは次のうちどれか。",
+            "choice": [
+                "768px以上", "768px以下", "768pxより上", "768px未満"
+            ],
+            "answer": "768px以下"
+        }
+    ]
+}

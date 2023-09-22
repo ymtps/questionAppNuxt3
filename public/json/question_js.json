@@ -1,0 +1,57 @@
+{
+    "questionList": [
+        {
+            "no": 1,
+            "question": "<p style=\"margin-bottom: 1em;\">WebサイトでjavaScriptを使うことで、どのような効果が期待できるか。<br />以下の中から正しいものの組み合わせを選択しなさい。</p><p>A：Webサイトにアニメーションをつけることができる<br />B：画面遷移をしなくても文字や画像を書き換えられる<br />C：人工知能を使ったデータ分析ができる<br />D：データベースとWebブラウザでデータのやり取りができる</p>",
+            "choice": [
+                "AとBとD", "全て", "AとB", "どれも当てはまらない"
+            ],
+            "answer": "AとBとD" 
+        },
+        {
+            "no": 2,
+            "question": "javaとjavaScriptの関係性について、正しいものはどれか。",
+            "choice": [
+                "javaをブラウザ向けに拡張した言語がjavaScriptである。",
+                "名前が似ているだけで、javaとjavaScriptは全く異なるプログラミング言語である。",
+                "javaScriptはjavaの新しい名称である。",
+                "javaScriptはHTMLに埋め込まれたjavaのコードである。"
+            ],
+            "answer": "名前が似ているだけで、javaとjavaScriptは全く異なるプログラミング言語である。" 
+        },
+        {
+            "no": 3,
+            "question": "javaScriptが不向きだとされているサービスはどれか。",
+            "choice": [
+                "データベースサーバーとの通信",
+                "動画編集などの高度な処理を行うスマホアプリ",
+                "チャットサービス",
+                "オンラインショッピング"
+            ],
+            "answer": "動画編集などの高度な処理を行うスマホアプリ" 
+        },
+        {
+            "no": 4,
+            "question": "<p style=\"margin-bottom: 1em;\">以下のモジュールにおいて、javaScriptの実装が必須となるモジュールはどれか。</p><p>A：ボタンのアニメーション<br />B：入力フォームのバリデーションチェック<br />C：スライダー<br />D：モーダル・ポップアップ <br />E：ドロワーメニュー<br />F：ハンバーガーメニュー</p>",
+            "choice": [
+                "全て", "B", "A", "F"
+            ],
+            "answer": "B" 
+        },
+        {
+            "no": 5,
+            "question": "<p style=\"margin-bottom: 1em;\">以下の文は、javaScriptとjqueryの関係性について表した文である。<br />空欄の中に入る単語の組み合わせとして、正しいものはどれか。</p><p>javaScriptとjQueryは【①】ものである。javaScriptはWebサーバーで実行【②】。<br />【③】はWebサイトで気軽に【④】が利用されるように設計されたライブラリである。<br />なので、【③】 でできることは 【④】 だけでも実現できると言える。</p>",
+            "choice": [
+                "①同じ　②できる　③javaScript　④jQuery",
+                "①同じ　②できる　③jQuery　④javaScript",
+                "①同じ　②できない　③javaScript　④jQuery",
+                "①同じ　②できない　③jQuery　④javaScript",
+                "①異なる　②できる　③javaScript　④jQuery",
+                "①異なる　②できる　③jQuery　④javaScript",
+                "①異なる　②できない　③javaScript　④jQuery",
+                "①異なる　②できない　③jQuery　④javaScript"
+            ],
+            "answer": "①異なる　②できる　③jQuery　④javaScript" 
+        }       
+    ]
+}
